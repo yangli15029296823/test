@@ -1,7 +1,7 @@
 import numpy as np
 import tensorflow  as tf
 import matplotlib.pyplot as plt
-
+import pandas as pd
 
 x = np.linspace(1,10)
 y = np.cos(x)
